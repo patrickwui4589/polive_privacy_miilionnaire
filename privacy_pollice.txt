@@ -1,65 +1,71 @@
-Privacy Policy
-This privacy policy applies to the millionnaire app (hereby referred to as "Application") for mobile devices that was created by patrickdev (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Dernière mise à jour : 03 juin 2026
 
+Bienvenue sur Millionnaire, un jeu de quiz inspiré du célèbre concept de questions-réponses.
 
-Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
+Nous accordons une importance particulière à la protection de vos données personnelles. Cette politique explique quelles informations peuvent être collectées et comment elles sont utilisées.
 
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
+1. Informations collectées
 
-The Application does not gather precise information about the location of your mobile device.
+L'application peut collecter automatiquement certaines informations techniques via des services tiers :
 
+Identifiants publicitaires de l'appareil
+Informations sur l'appareil (modèle, système d'exploitation, langue)
+Statistiques d'utilisation de l'application
+Informations relatives aux performances et aux erreurs de l'application
+2. Publicités
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+L'application utilise Google AdMob pour afficher des publicités.
 
+AdMob peut collecter et utiliser certaines données afin de fournir des publicités personnalisées ou non personnalisées conformément aux politiques de Google.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to patrickwuidji.dev@gmail.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+Pour en savoir plus :
 
+Règles de confidentialité Google
 
-Third Party Access
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+3. Analyses et statistiques
 
+L'application utilise Firebase Analytics afin de comprendre comment les utilisateurs interagissent avec l'application.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Les données collectées servent uniquement à :
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Améliorer l'expérience utilisateur
+Corriger les erreurs
+Analyser l'utilisation générale de l'application
+4. Partage des données
 
-Opt-Out Rights
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Nous ne vendons aucune donnée personnelle.
 
+Certaines données peuvent être traitées par les fournisseurs de services suivants :
 
-Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at patrickwuidji.dev@gmail.com and they will respond in a reasonable time.
+Google AdMob
+Google Firebase Analytics
 
+dans le cadre du fonctionnement normal de l'application.
 
-Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+5. Conservation des données
 
+Les données collectées par les services tiers sont conservées conformément à leurs propres politiques de confidentialité.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (patrickwuidji.dev@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+6. Sécurité
 
+Nous mettons en œuvre des mesures raisonnables pour protéger les informations traitées par l'application.
 
-Security
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+7. Protection des enfants
 
+L'application est un jeu de quiz destiné à un large public.
 
-Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Si vous pensez qu'un enfant nous a fourni des informations personnelles de manière inappropriée, veuillez nous contacter.
 
+8. Suppression des données
 
-This privacy policy is effective as of 2025-11-07
+L'application ne crée pas de compte utilisateur et ne stocke pas directement de données personnelles permettant d'identifier un utilisateur.
 
+9. Modifications
 
-Your Consent
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+Cette politique de confidentialité peut être mise à jour à tout moment. Les modifications seront publiées sur cette page.
 
+10. Contact
 
-Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at patrickwuidji.dev@gmail.com.
+Pour toute question concernant cette politique de confidentialité :
 
-This privacy policy page was generated by App Privacy Policy Generator
+Email : patrickwuidji.dev@gmail.com
